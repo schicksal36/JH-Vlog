@@ -1,10 +1,10 @@
 <!-- Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-## 👀 About Me
+# 👀 About Me
 #### :raising_hand: 안정적이고 확장 가능한 시스템을 구축하는 백엔드 엔지니어로 성장 중인 김정훈입니다.  
-함께 일하기 쉽고 소통이 원활하며, 꼼꼼하게 문제를 분석해 해결합니다.  
-새로운 기술을 배우고 적용해 꾸준히 성장하고 있습니다. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;함께 일하기 쉽고 소통이 원활하며, 꼼꼼하게 문제를 분석해 해결합니다.  
+&nbsp;&nbsp;&nbsp;&nbsp;새로운 기술을 배우고 적용해 꾸준히 성장하고 있습니다. <br/>
 
 #### 🎓 Python과 Django를 중심으로 학습하며, 데이터베이스·서버 아키텍처와 AWS 클라우드를 함께 공부하고 있습니다. <br/>
 
